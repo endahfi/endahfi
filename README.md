@@ -4,11 +4,11 @@ I enjoy continuous learning, taking on new challenges, and building meaningful a
 
 ## Tech Stack
 
-**Languages:** JavaScript (ES6+), Dart
-**Frontend:** ReactJS, NextJS, HTML, TailwindCSS.
-**Backend:** Laravel
-**Mobile:** Flutter
-**Others:** REST API, Git, GitHub, Postman
+- Languages: JavaScript (ES6+), Dart
+- Frontend: ReactJS, NextJS, HTML, TailwindCSS.
+- Backend: Laravel
+- Mobile: Flutter
+- Others: REST API, Git, GitHub, Postman
 
 ## Currently Learning
 
