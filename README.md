@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Endah 👋
 
-<!--
-**endahfi/endahfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy continuous learning, taking on new challenges, and building meaningful applications. I'm open to collaborating on projects that focus on practical and impactful solutions.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript (ES6+), Dart
+**Frontend:** ReactJS, NextJS, HTML, TailwindCSS
+**Mobile:** Flutter
+**Others:** REST API, Git, GitHub, Postman
+
+## Currently Learning
+
+- Flutter app development
+- State management in Flutter
